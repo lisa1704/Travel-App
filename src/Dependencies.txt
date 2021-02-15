@@ -1,0 +1,37 @@
+
+#SPECIAL NOTE:
+--> downgrade node to v10.16.0
+
+npm install @react-navigation/native @react-navigation/stack
+expo install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+
+
+expo install firebase
+npm i react-native-vector-icons
+npm i react-native-gesture-handler
+npm install entypo
+npm i @react-navigation/bottom-tabs
+npm i react-native-multiple-select
+expo install expo-image-picker
+expo install expo-font
+
+npm install @react-navigation/material-top-tabs react-native-tab-view
+
+npm i react-native-vector-icons
+npm i --save react-native-safe-area-context
+
+
+--
+expo install react-native-svg
+
+
+
+----> new dependencies
+npm i react-native-gesture-bottom-sheet
+npm install react-native-actions-sheet --save
+npm i react-native-star-rating
+
+---->
+npm install @react-native-async-storage/async-storage
+npm install -g react-native-cli
+react-native init rnalert
