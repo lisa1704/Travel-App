@@ -7,6 +7,8 @@ This is a mobile app that will work as a travel blog for users.
 This has been made with React Native and using Firebase as a backend
 
 ![Login Screen](https://user-images.githubusercontent.com/47085691/114061207-01691380-98b8-11eb-94a5-ca211ff24e0b.PNG)
+![Sign Up](https://user-images.githubusercontent.com/47085691/114061640-7a686b00-98b8-11eb-994e-34b71df9b7c6.PNG)
+![Home Page](https://user-images.githubusercontent.com/47085691/114061656-7e948880-98b8-11eb-9fb0-86586cf524a2.PNG)
 
 
 ## Features
