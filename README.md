@@ -6,7 +6,7 @@ A social app for travelers everywhere anywhere in the world
 This is a mobile app that will work as a travel blog for users. 
 This has been made with React Native and using Firebase as a backend
 
-https://user-images.githubusercontent.com/47085691/114061207-01691380-98b8-11eb-94a5-ca211ff24e0b.PNG
+![Login Screen](https://user-images.githubusercontent.com/47085691/114061207-01691380-98b8-11eb-94a5-ca211ff24e0b.PNG)
 
 
 ## Features
